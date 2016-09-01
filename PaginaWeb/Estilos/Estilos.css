@@ -1,0 +1,30 @@
+#CajaTotal {
+  width: 900px;
+  min-height: 600px;
+  margin: 0px auto;
+}
+#CajaSuperior {
+  min-height: 70px;
+  background-color: #50A890;
+}
+#CajaCentral {
+  margin-top: 20px;
+  min-height: 400px;
+  background-color: ;
+}
+#CajaInferior {
+  background-image: url(img/texture.png);
+  min-height: 100px;
+  margin-top: 20px;
+  max-height: 101px;
+  background-repeat: repeat-x;
+}
+#CajaInferior button{
+  font-size:10px;
+  font-family:Verdana,Helvetica;
+  font-weight:bold;
+  background: ;
+  border:0px;
+  width:80px;
+  height:19px;
+}
